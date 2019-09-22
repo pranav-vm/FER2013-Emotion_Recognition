@@ -9,3 +9,10 @@ Acheived Accuracy on test set: :57.174700473669546%
 
 The model works efficiently for test.py but needs some help to make it work realtime.
 The code is in realtime.py, any help from you guys will be appreciated.
+
+Necessary Libraries:
+i) Open CV
+ii) Numpy
+iii) Keras
+iv) matplotlib.pyplot
+v) sklearn
